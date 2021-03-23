@@ -20,9 +20,8 @@ UNDER CONSTRUCTION :construction:
 
 ## Contact Me :mailbox:
 
-<p>
 You can send me an email via [jeremiedaniel48@gmail.com](mailto:jeremiedaniel48@gmail.com) :email:
-</p>
+
 
 
 
