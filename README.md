@@ -1,4 +1,4 @@
-<img src="./assets/giphy.gif" width='100' aline="left"/><h1>Hi there, Jeremie here! 👋</h1>
+<img src="./assets/giphy.gif" width='400' aline="center"/><h1>Hi there, Jeremie here! 👋</h1>
 
 ## About Me :panda_face::four_leaf_clover:
 
@@ -11,6 +11,19 @@ I am interested in open-source technologies and likes to help open-source to imp
 <br>
 I participated in several hackathons such as hashcode, IETF and mohack. My personal projects can be found on my <a href="https://medium.com/@jeremiedaniel48">medium</a> page or on my <a href="http://jeremiedl.blogspot.com">blogger</a> page.
 </p>
+
+## Skills 
+
+<p>
+UNDER CONSTRUCTION :construction:
+</p>
+
+## Contact Me :mailbox:
+
+<p>
+You can send me an email via [jeremiedaniel48@gmail.com](mailto:jeremiedaniel48@gmail.com) :email:
+</p>
+
 
 
 <!--
