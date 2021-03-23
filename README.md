@@ -1,4 +1,4 @@
-<img src="./assets/giphy.gif" width='50' aline="left"/><h1>Hi there, Jeremie here! 👋</h1>
+<img src="./assets/giphy.gif" width='100' aline="left"/><h1>Hi there, Jeremie here! 👋</h1>
 
 ## About Me :panda_face::four_leaf_clover:
 
