@@ -21,6 +21,13 @@ UNDER CONSTRUCTION :construction:
 ## Contact Me :mailbox:
 
 You can send me an email via [jeremiedaniel48@gmail.com](mailto:jeremiedaniel48@gmail.com) :email:
+[![Twitter Follow](https://img.shields.io/twitter/follow/jeremie_daniel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjeremie_daniel&screen_name=jeremie_daniel)
+
+## Stats 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremie1112&count_private=true&show_icons=true&theme=tokyonight&border_radius=true)](https://github.com/jeremie1112/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremie1112&layout=compact)](https://github.com/jeremie1112/github-readme-stats)
 
 
 
