@@ -12,7 +12,7 @@ I am interested in open-source technologies and likes to help open-source to imp
 I participated in several hackathons such as hashcode, IETF and mohack. My personal projects can be found on my <a href="https://medium.com/@jeremiedaniel48">medium</a> page or on my <a href="http://jeremiedl.blogspot.com">blogger</a> page.
 </p>
 
-## Skills 
+## Skills :page_with_curl:
 
 <p>
 UNDER CONSTRUCTION :construction:
@@ -21,25 +21,29 @@ UNDER CONSTRUCTION :construction:
 ## Contact Me :mailbox:
 
 You can send me an email via [jeremiedaniel48@gmail.com](mailto:jeremiedaniel48@gmail.com) :email:
-
 <br>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jeremie_daniel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjeremie_daniel&screen_name=jeremie_daniel)
 
-## Stats 
+## GitHub Stats :chart_with_upwards_trend:
 
-<div >
-<div box-sizing: border-box;;display: inline-block;width: 50%;>
+<a href="https://github.com/jeremie1112/All_Programs_and_algorithms">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremie1112&theme=tokyonight&layout=compact">
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremie1112&count_private=true&show_icons=true&theme=tokyonight&border_radius=true)](https://github.com/jeremie1112/github-readme-stats)
+<a href="https://github.com/jeremie1112/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeremie1112&count_private=true&show_icons=true&theme=tokyonight&border_radius=true">
+</a>
 
-</div>
-<div box-sizing: border-box;;display: inline-block;width: 50%;>
+<a href="https://github.com/jeremie1112/All_Programs_and_algorithms">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremie1112&theme=tokyonight&repo=All_Programs_and_algorithms">
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremie1112&layout=compact)](https://github.com/jeremie1112/All_Programs_and_algorithms)
+<a href="https://github.com/jeremie1112/Web-Centric">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremie1112&theme=tokyonight&repo=Web-Centric">
+</a>
 
-</div>
-</div>
+
 
 
 
