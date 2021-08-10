@@ -28,7 +28,7 @@ You can send me an email via [jeremiedaniel48@gmail.com](mailto:jeremiedaniel48@
 ## GitHub Stats :chart_with_upwards_trend:
 
 <a href="https://github.com/jeremie1112/All_Programs_and_algorithms">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremie1112&theme=tokyonight&layout=compact&border_radius=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremie1112&theme=tokyonight&langs_count=8&border_radius=true">
 </a>
 
 <a href="https://github.com/jeremie1112/github-readme-stats">
