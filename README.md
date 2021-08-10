@@ -12,6 +12,11 @@ I am interested in open-source technologies and likes to help open-source to imp
 I participated in several hackathons such as hashcode, IETF and mohack. My personal projects can be found on my <a href="https://medium.com/@jeremiedaniel48">medium</a> page or on my <a href="http://jeremiedl.blogspot.com">blogger</a> page.
 </p>
 
+<br>
+<p align = 'center'>
+<img align="center" alt="visitors" src="https://gpvc.arturio.dev/jeremie1112" /> 
+</p>
+
 ## Skills :page_with_curl:
 
 <p>
