@@ -28,7 +28,7 @@ You can send me an email via [jeremiedaniel48@gmail.com](mailto:jeremiedaniel48@
 ## GitHub Stats :chart_with_upwards_trend:
 
 <a href="https://github.com/jeremie1112/All_Programs_and_algorithms">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremie1112&theme=tokyonight&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremie1112&theme=tokyonight&layout=compact&border_radius=true">
 </a>
 
 <a href="https://github.com/jeremie1112/github-readme-stats">
@@ -36,11 +36,11 @@ You can send me an email via [jeremiedaniel48@gmail.com](mailto:jeremiedaniel48@
 </a>
 
 <a href="https://github.com/jeremie1112/All_Programs_and_algorithms">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremie1112&theme=tokyonight&repo=All_Programs_and_algorithms">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremie1112&theme=tokyonight&repo=All_Programs_and_algorithms&border_radius=true">
 </a>
 
-<a href="https://github.com/jeremie1112/jeremie1112">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremie1112&theme=tokyonight&repo=jeremie1112">
+<a href="https://github.com/jeremie1112/quiche">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremie1112&theme=tokyonight&repo=quiche&border_radius=true">
 </a>
 
 
