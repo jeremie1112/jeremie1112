@@ -39,8 +39,8 @@ You can send me an email via [jeremiedaniel48@gmail.com](mailto:jeremiedaniel48@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremie1112&theme=tokyonight&repo=All_Programs_and_algorithms">
 </a>
 
-<a href="https://github.com/jeremie1112/Web-Centric">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremie1112&theme=tokyonight&repo=Web-Centric">
+<a href="https://github.com/jeremie1112/jeremie1112">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremie1112&theme=tokyonight&repo=jeremie1112">
 </a>
 
 
