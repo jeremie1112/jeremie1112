@@ -25,11 +25,11 @@ You can send me an email via [jeremiedaniel48@gmail.com](mailto:jeremiedaniel48@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jeremie_daniel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjeremie_daniel&screen_name=jeremie_daniel)
 
-## Latest Blog Posts 
+## Latest Blog Posts(Medium) :closed_book:
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://medium.com/@jeremiedaniel48)
 
 ## GitHub Stats :chart_with_upwards_trend:
 
