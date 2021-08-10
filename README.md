@@ -25,6 +25,12 @@ You can send me an email via [jeremiedaniel48@gmail.com](mailto:jeremiedaniel48@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jeremie_daniel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjeremie_daniel&screen_name=jeremie_daniel)
 
+## Latest Blog Posts 
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 ## GitHub Stats :chart_with_upwards_trend:
 
 <a href="https://github.com/jeremie1112/All_Programs_and_algorithms">
