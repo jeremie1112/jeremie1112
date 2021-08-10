@@ -29,12 +29,10 @@ You can send me an email via [jeremiedaniel48@gmail.com](mailto:jeremiedaniel48@
 ## Stats 
 
 <div>
-<p float: left>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremie1112&count_private=true&show_icons=true&theme=tokyonight&border_radius=true)](https://github.com/jeremie1112/github-readme-stats)
-</p>
-<p float: right>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremie1112&layout=compact)](https://github.com/jeremie1112/All_Programs_and_algorithms)
-</p>
 </div>
 
 
