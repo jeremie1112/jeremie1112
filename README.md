@@ -33,11 +33,11 @@ You can send me an email via [jeremiedaniel48@gmail.com](mailto:jeremiedaniel48@
 ## Latest Blog Posts(Medium) :closed_book:
 
 <!-- BLOG-POST-LIST:START -->
+- [You Should Update Your LOG4J Version To 2.17.0 Now !!](https://medium.com/@jeremiedaniel48/you-should-update-your-log4j-version-to-2-17-0-now-a8a7cfbdd7fb?source=rss-d60a7462987d------2)
 - [How to set up GOPATH and GOROOT for Go and how to run test on quic-go](https://medium.com/@jeremiedaniel48/how-to-set-up-gopath-and-goroot-for-go-and-how-to-run-test-on-quic-go-dd9808b44efe?source=rss-d60a7462987d------2)
 - [How changing the size of initcwnd affect the timestamps of an http/3 request](https://medium.com/@jeremiedaniel48/how-changing-the-size-of-initcwnd-affect-the-timestamps-of-an-http-3-request-2e64dc714ad9?source=rss-d60a7462987d------2)
 - [How To Block A Port Using Iptables Then Listen To A Port With Netcat](https://medium.com/@jeremiedaniel48/how-to-block-a-port-using-iptables-then-listen-to-a-port-with-netcat-b0dcb9793f5?source=rss-d60a7462987d------2)
 - [Install And Setup Cowrie Honeypot On Ubuntu&lpar;Linux&rpar;](https://medium.com/@jeremiedaniel48/install-and-setup-cowrie-honeypot-on-ubuntu-linux-5d64552c31dc?source=rss-d60a7462987d------2)
-- [IETF 104&lpar;remote from Mauritius&rpar;](https://medium.com/@jeremiedaniel48/ietf-104-remote-from-mauritius-3695504c8ba4?source=rss-d60a7462987d------2)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://medium.com/@jeremiedaniel48)
 
