@@ -5,7 +5,8 @@
 <p>
 I am passionate with playing games, writing small code snipets or even small projects and living life.
 <br>
-I am currently a final year student in BSc Computer Science at the University of Mauritius.
+I studied BSc Computer Science at the University of Mauritius.
+I am now working as a Linux Sys Admin
 <br>
 I am interested in open-source technologies and likes to help open-source to improve.
 <br>
